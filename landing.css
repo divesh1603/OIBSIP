@@ -1,0 +1,242 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.fullform{
+    width: 100%;
+    height: 100%;   
+}
+.firstpage{
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgb(154, 60, 216),rgb(88, 55, 206));
+    color: white;
+}
+
+.headbar{
+    width: 90rem;
+    height: 2rem;
+    margin: auto;  
+}
+
+.lefthead{
+    width: 20rem;  
+    height: 2rem;
+    float: left;
+    margin-top: 1rem;
+}
+.nav1{
+    color: blanchedalmond;
+}
+.rightmenu{
+    width: 50rem;
+    height: 2rem;
+    float: right;
+    margin-top: 1rem; 
+}
+
+nav{
+    word-spacing: 35px;
+    margin-top: 1rem;
+    position: absolute;
+    right: 3rem;
+
+}
+.third{
+    font-size: 1.5pc;
+    
+}
+
+.innerpart{
+    margin: auto;
+    margin-top: 1rem; 
+    width: 100%;
+    height: 700px;
+}
+
+.innerlines{
+    font-size: 1.5rem;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    line-height: 3rem;
+    padding: 200px;
+    color: white;
+}
+
+.secondpage{
+    width: 100%;
+    height: 700px;
+}
+
+.aboutustopic{
+    text-align: center;
+    margin-top: 4rem;
+    width: 100%;
+    height: 2rem;
+}
+
+.aboutcontent{
+    height: 565px;
+    width: 40%;
+    float: left;
+    padding: 50px;
+}
+.contenthead{
+    color: rgba(235, 162, 173, 0.824);
+    border-radius: 2rem;
+    background-color: rgb(83, 4, 83);
+    text-align: center;
+    font-family: monospace;
+    height: 1.5rem;
+    margin-top: 4rem;
+}
+.contentpara{
+    margin-top: 5rem;
+    width: 90%;
+    text-align: center;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.thirdpage{
+    width: 100%;
+    height: 600px;
+}
+
+.servicetopic{
+    text-align: center;
+    margin-top: 4rem;
+    width: 100%;
+    height: 2rem;
+}
+
+.servicecontent{
+    height: 450px;
+    width: 47%;
+    float: right;
+    padding: 50px;
+}
+.servicehead{
+    color: rgba(235, 162, 173, 0.824);
+    border-radius: 2rem;
+    background-color: rgb(83, 4, 83);
+    text-align: center;
+    font-family: monospace;
+    height: 1.5rem;
+    margin-top: 4rem;
+}
+.servicepara{
+    margin-top: 5rem;
+    width: 90%;
+    text-align: center;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.servicepic{
+    height: 550px;
+    width: 700px;
+    
+}
+
+.fourthpage{
+    width: 100%;
+    height: 600px;
+}
+.interntopic{
+    text-align: center;
+}
+
+.interncontent{
+    height: 600px;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+.internleft{
+    height: 400px;
+    width: 50%;
+    border-radius: 1rem;
+    border-style: outset;
+    float: left;
+}
+.internright{
+    height: 400px;
+    width: 50%;
+    border-radius: 1rem;
+    border-style: outset;
+    margin-left: 5rem;
+}
+.internhead{
+    font-family: monospace;
+}
+
+.internpara{
+    padding: 10px;
+}
+.fivethpage{
+    height: 600px;
+    width: 100%;
+}
+.contacttopic{
+    text-align: center;
+}
+.contentpic{
+    width: 40%;
+    height: 500px;
+    float: left;
+}
+
+.contactdetails{
+    height: 500px;
+    width: 60%;
+    float: left;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.details{
+    height: 80%;
+    width: 60%;
+    text-align: center;
+    border-style: unset;
+    border-radius: 25px;
+    background-color: rgb(255, 241, 255);
+}
+.space{
+    font-family: monospace;
+    font-size: x-large;
+    line-height: 2.5rem;
+}
+.button{
+    padding: 30px;
+}
+.foot{
+    height: 100px;
+    width: 100%;
+    border-style:outset;
+    background-color: whitesmoke;
+}
+.rights{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    height: 100px;
+    width: 100%;
+}
+.para{
+    width: 70%;
+    margin-top: 3rem;
+}
+.footdetails{
+    height: 100px;
+    width: 29%;
+    float: right;
+    line-height: 2rem;
+}
