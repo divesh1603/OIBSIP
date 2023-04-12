@@ -1,0 +1,44 @@
+body{
+      background-image: url('background.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+      }
+.fullpage{
+      position: absolute;
+      top: 5rem;
+      left: 33rem;
+      width: 30rem;
+      height: 30rem;
+      font-size: large;
+      font-family: cursive;
+      color: white;
+      border-radius: 10px;
+      background-color: rgba(255, 255, 255, 0.182);    
+}
+h1{
+      width: 30rem;
+      height: 5rem;
+      text-align: center;
+}
+button {
+	color: white;
+      background-color: rgba(255, 255, 255, 0.323);
+      font-family: cursive;
+      font-size: large;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.5s ease;
+      width: 10rem;
+      height: 3rem;
+      position: absolute;
+      left: 10rem;
+}
+.left{
+      position: absolute;
+      left: 3rem;
+}
+.right{
+      position: absolute;
+      right: 3rem;
+}
