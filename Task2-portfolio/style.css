@@ -1,0 +1,161 @@
+.fullpage{
+      height:100%;
+      width: 1500px;
+      background: linear-gradient(#75ddbc,#28e7aafc);
+      font-style: oblique;
+}
+.firstpage{
+      width: 1500px;
+      height: 700px;
+}
+
+.head1{
+      float: left;
+      height: 3rem;
+      width: 25%;
+      color: white;
+      text-align: center;
+      background-color: black;
+      margin-top: 0;
+}
+.bar{
+      float: right;
+      height: 3rem;
+      width: 75%;
+      color: white;
+      background-color: black;
+      text-align: center;
+}
+.nav1{
+      color: white;
+      height: 3rem;
+      text-decoration:none;
+      padding: 2rem 6rem;
+}
+.firstpagecontent{
+      color: black;
+      font-size: 3rem;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      height: 200px;
+      width: 400px;
+      position: absolute;
+      top: 15rem;
+      left: 16rem;
+      text-align: center;  
+}
+.firstpagepic{
+      width: 390px;
+      height: 520px;
+      position: absolute;
+      left: 60rem;
+      top: 10rem;
+}
+.move{
+      position: absolute;
+      right: 2rem;
+      bottom: 1px;
+}
+img{
+      border-radius: 2rem;
+}
+.secondpage{
+      width: 1500px;
+      height: 400px;
+}
+.secondpagepic{
+      position: absolute;
+      width: 300px;
+      height: 300px;
+      left: 10rem;
+      margin-top: 4rem;
+}
+.abouttop{
+      position: absolute;
+      left: 16rem;
+}
+.aboutcont{
+      position: absolute;
+      width: 750px;
+      left: 35rem;
+      right: 5rem;
+      top: 49rem;
+      font-size: x-large;
+}
+.thirdpage{
+      width: 1500px;
+      height: 500px;
+}
+.thirdpagepic{
+      position: absolute;
+      width: 300px;
+      height: 300px;
+      left: 44rem;
+      margin-top: 4rem;
+}
+.skilltop{
+      position: absolute;
+      left: 50rem;
+}
+.skill1{
+      position: absolute;
+      left: 4rem;
+      top: 78rem;
+}
+.skill2{
+      position: absolute;
+      left: 24rem;
+      top: 78rem;
+}
+.skill3{
+      position: absolute;
+      left: 70rem;
+      top: 78rem;
+}
+.head2{
+      text-align: center;
+}
+.forthpage{
+      width: 1500px;
+      height: 500px;
+}
+.forthpagepic{
+      position: absolute;
+      width: 300px;
+      height: 300px;
+      left: 65rem;
+      margin-top: 4rem;
+}
+.contacttop{
+      position: absolute;
+      left: 70rem;
+}
+.details{
+      width: 400px;
+      height: 300px;
+      position: absolute;
+      left: 20rem;
+      top: 105rem;
+      border-style: outset;
+      border-radius: 10px;
+      line-height: 30px;
+      background-color: #34eeb3;
+}
+.c{
+      margin-top: 2rem;
+      position: absolute;
+      left: 10px;
+}
+.s{
+      margin-top: 2rem;
+      position: absolute;
+      right: 30px;
+}
+.button{
+      position: absolute;
+      left: 40%;
+      bottom: 20px;
+}
+
+.rights{
+      text-align: center;
+}
